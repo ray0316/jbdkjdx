@@ -1,7 +1,7 @@
 # jbdkjdx
 #####  마크다운 방법
 ###       구리고등학교
-##  1학sus
+##  1학년
 ![image](https://github.com/user-attachments/assets/07833024-92ff-44cd-b2e8-e5f274813c8d)
 
 
