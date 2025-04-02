@@ -8,7 +8,7 @@
 ``` bash
 dkjkjfghkjgdfhkjgfdkjgfd
 ```
-#####구구단 만들기
+##### 구구단 만들기
 ```bash
 # 구구단 출력하기
 for i in range(1, 10):  # 1부터 9까지 반복
