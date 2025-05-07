@@ -16,3 +16,4 @@ for i in range(1, 10):  # 1부터 9까지 반복
         print(f"{i} x {j} = {i * j}", end="\t")  # 곱셈 결과 출력
     print()  # 줄 바꿈
 ```
+![image](https://github.com/user-attachments/assets/4699c9e6-a299-4fa4-9547-d3691c8f8d23)
